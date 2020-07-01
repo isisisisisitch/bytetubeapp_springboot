@@ -1,4 +1,28 @@
-2020-06-23 15:30:06.114 [main] ERROR com.bytetube.service.impl.WechatAuthServiceImpl -     insertWechatAuth error:org.springframework.dao.DuplicateKeyException: 
+2020-06-30 17:45:30.601 [main] ERROR com.bytetube.service.impl.WechatAuthServiceImpl -     insertWechatAuth error:org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dafahizhfdhaih' for key 'open_id'
+### The error may exist in file [/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes/mapper/WechatAuthDao.xml]
+### The error may involve com.bytetube.dao.WechatAuthDao.insertWechatAuth-Inline
+### The error occurred while setting parameters
+### SQL: INSERT   INTO   tb_wechat_auth(user_id,open_id,create_time)   VALUES   (?,?,?)
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dafahizhfdhaih' for key 'open_id'
+; Duplicate entry 'dafahizhfdhaih' for key 'open_id'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dafahizhfdhaih' for key 'open_id'
+2020-06-30 17:47:26.068 [main] ERROR com.bytetube.service.impl.WechatAuthServiceImpl -     insertWechatAuth error:org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dafahizhfdhaih' for key 'open_id'
+### The error may exist in file [/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes/mapper/WechatAuthDao.xml]
+### The error may involve com.bytetube.dao.WechatAuthDao.insertWechatAuth-Inline
+### The error occurred while setting parameters
+### SQL: INSERT   INTO   tb_wechat_auth(user_id,open_id,create_time)   VALUES   (?,?,?)
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dafahizhfdhaih' for key 'open_id'
+; Duplicate entry 'dafahizhfdhaih' for key 'open_id'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dafahizhfdhaih' for key 'open_id'
+2020-06-30 17:48:09.669 [main] ERROR com.bytetube.service.impl.WechatAuthServiceImpl -     insertWechatAuth error:org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dafahizhfdhaih' for key 'open_id'
+### The error may exist in file [/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes/mapper/WechatAuthDao.xml]
+### The error may involve com.bytetube.dao.WechatAuthDao.insertWechatAuth-Inline
+### The error occurred while setting parameters
+### SQL: INSERT   INTO   tb_wechat_auth(user_id,open_id,create_time)   VALUES   (?,?,?)
+### Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dafahizhfdhaih' for key 'open_id'
+; Duplicate entry 'dafahizhfdhaih' for key 'open_id'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dafahizhfdhaih' for key 'open_id'
+2020-06-30 17:51:19.708 [main] ERROR com.bytetube.service.impl.WechatAuthServiceImpl -     insertWechatAuth error:org.springframework.dao.DuplicateKeyException: 
 ### Error updating database.  Cause: java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'dafahizhfdhaih' for key 'open_id'
 ### The error may exist in file [/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes/mapper/WechatAuthDao.xml]
 ### The error may involve com.bytetube.dao.WechatAuthDao.insertWechatAuth-Inline

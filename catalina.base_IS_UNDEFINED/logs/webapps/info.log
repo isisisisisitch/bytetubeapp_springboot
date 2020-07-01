@@ -1,65 +1,204 @@
-2020-06-23 14:43:14.821 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25594 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 14:43:14.823 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 14:44:49.391 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25600 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 14:44:49.393 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 14:44:52.334 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 3.129 seconds (JVM running for 3.565)
-2020-06-23 14:51:18.931 [main] INFO  com.bytetube.dao.AreaDaoTest -     Starting AreaDaoTest on dalluos-mbp with PID 25609 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 14:51:18.933 [main] INFO  com.bytetube.dao.AreaDaoTest -     No active profile set, falling back to default profiles: default
-2020-06-23 14:51:22.757 [main] INFO  com.bytetube.dao.AreaDaoTest -     Started AreaDaoTest in 4.1 seconds (JVM running for 5.075)
-2020-06-23 15:25:52.473 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25659 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 15:25:52.476 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 15:25:55.392 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 3.108 seconds (JVM running for 3.812)
-2020-06-23 15:30:01.705 [main] INFO  com.bytetube.service.WechatAuthServiceTest -     Starting WechatAuthServiceTest on dalluos-mbp with PID 25668 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 15:30:01.706 [main] INFO  com.bytetube.service.WechatAuthServiceTest -     No active profile set, falling back to default profiles: default
-2020-06-23 15:30:05.256 [main] INFO  com.bytetube.service.WechatAuthServiceTest -     Started WechatAuthServiceTest in 3.776 seconds (JVM running for 4.489)
-2020-06-23 15:30:49.415 [main] INFO  com.bytetube.service.WechatAuthServiceTest -     Starting WechatAuthServiceTest on dalluos-mbp with PID 25672 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 15:30:49.416 [main] INFO  com.bytetube.service.WechatAuthServiceTest -     No active profile set, falling back to default profiles: default
-2020-06-23 15:30:53.048 [main] INFO  com.bytetube.service.WechatAuthServiceTest -     Started WechatAuthServiceTest in 3.863 seconds (JVM running for 4.524)
-2020-06-23 15:48:43.382 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25697 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 15:48:43.384 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 15:48:46.110 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 2.908 seconds (JVM running for 3.322)
-2020-06-23 15:54:43.609 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25716 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 15:54:43.611 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 15:54:46.501 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 3.096 seconds (JVM running for 3.576)
-2020-06-23 16:00:06.383 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25734 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 16:00:06.384 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 16:00:09.357 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 3.155 seconds (JVM running for 3.595)
-2020-06-23 16:02:36.592 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25741 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 16:02:36.594 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 16:02:39.520 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 3.124 seconds (JVM running for 3.57)
-2020-06-23 16:05:50.145 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25750 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 16:05:50.148 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 16:05:52.978 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 3.034 seconds (JVM running for 3.492)
-2020-06-23 16:10:07.143 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25756 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 16:10:07.144 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 16:10:09.925 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 2.969 seconds (JVM running for 3.4)
-2020-06-23 16:16:37.145 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25769 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 16:16:37.148 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 16:16:39.980 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 3.02 seconds (JVM running for 3.447)
-2020-06-23 16:38:51.588 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25823 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 16:38:51.590 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 16:38:55.508 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 4.118 seconds (JVM running for 4.579)
-2020-06-23 16:57:12.566 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25857 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 16:57:12.569 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 16:57:15.501 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 3.148 seconds (JVM running for 3.618)
-2020-06-23 17:09:50.948 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25877 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 17:09:50.950 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 17:09:53.830 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 3.075 seconds (JVM running for 3.498)
-2020-06-23 17:13:40.082 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25900 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 17:13:40.084 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 17:13:42.985 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 3.109 seconds (JVM running for 3.545)
-2020-06-23 17:15:23.875 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 25909 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 17:15:23.877 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 17:15:27.175 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 3.495 seconds (JVM running for 3.916)
-2020-06-23 20:09:51.377 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 26323 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 20:09:51.383 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 20:09:56.942 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 5.956 seconds (JVM running for 6.6)
-2020-06-23 21:15:11.504 [main] INFO  com.bytetube.dao.AreaDaoTest -     Starting AreaDaoTest on dalluos-mbp with PID 26442 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 21:15:11.509 [main] INFO  com.bytetube.dao.AreaDaoTest -     No active profile set, falling back to default profiles: default
-2020-06-23 21:15:15.447 [main] INFO  com.bytetube.dao.AreaDaoTest -     Started AreaDaoTest in 4.348 seconds (JVM running for 5.888)
-2020-06-23 21:23:35.493 [main] INFO  com.bytetube.service.WechatAuthServiceTest -     Starting WechatAuthServiceTest on dalluos-mbp with PID 26461 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 21:23:35.549 [main] INFO  com.bytetube.service.WechatAuthServiceTest -     No active profile set, falling back to default profiles: default
-2020-06-23 21:23:38.863 [main] INFO  com.bytetube.service.WechatAuthServiceTest -     Started WechatAuthServiceTest in 3.662 seconds (JVM running for 4.714)
-2020-06-23 21:55:02.666 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 26527 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
-2020-06-23 21:55:02.669 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
-2020-06-23 21:55:04.605 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 2.136 seconds (JVM running for 2.892)
+2020-06-30 11:13:05.541 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 41426 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 11:13:05.545 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
+2020-06-30 11:13:07.319 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 1.982 seconds (JVM running for 2.498)
+2020-06-30 11:33:53.848 [main] INFO  com.bytetube.dao.AwardDaoTest -     Starting AwardDaoTest on dalluos-mbp with PID 41551 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 11:33:53.851 [main] INFO  com.bytetube.dao.AwardDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 11:33:56.020 [main] INFO  com.bytetube.dao.AwardDaoTest -     Started AwardDaoTest in 2.357 seconds (JVM running for 3.111)
+2020-06-30 11:39:59.882 [main] INFO  com.bytetube.dao.AwardDaoTest -     Starting AwardDaoTest on dalluos-mbp with PID 41563 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 11:39:59.883 [main] INFO  com.bytetube.dao.AwardDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 11:40:01.876 [main] INFO  com.bytetube.dao.AwardDaoTest -     Started AwardDaoTest in 2.165 seconds (JVM running for 2.833)
+2020-06-30 11:41:05.364 [main] INFO  com.bytetube.dao.AwardDaoTest -     Starting AwardDaoTest on dalluos-mbp with PID 41571 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 11:41:05.365 [main] INFO  com.bytetube.dao.AwardDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 11:41:07.468 [main] INFO  com.bytetube.dao.AwardDaoTest -     Started AwardDaoTest in 2.288 seconds (JVM running for 3.005)
+2020-06-30 11:54:22.588 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41651 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 11:54:22.590 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 11:54:24.795 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.401 seconds (JVM running for 3.07)
+2020-06-30 11:54:56.621 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41657 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 11:54:56.622 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 11:54:58.735 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.306 seconds (JVM running for 2.987)
+2020-06-30 12:02:26.443 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41668 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:02:26.444 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:02:28.462 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.211 seconds (JVM running for 2.873)
+2020-06-30 12:04:04.795 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41685 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:04:04.796 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:04:06.811 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.282 seconds (JVM running for 2.972)
+2020-06-30 12:06:48.124 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41693 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:06:48.125 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:06:50.287 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.364 seconds (JVM running for 3.05)
+2020-06-30 12:08:57.505 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41700 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:08:57.506 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:08:59.505 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.206 seconds (JVM running for 2.875)
+2020-06-30 12:10:02.076 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41709 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:10:02.088 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:10:04.167 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.28 seconds (JVM running for 2.989)
+2020-06-30 12:11:15.370 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41717 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:11:15.371 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:11:17.459 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.298 seconds (JVM running for 3.005)
+2020-06-30 12:11:51.473 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41727 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:11:51.474 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:11:53.555 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.285 seconds (JVM running for 2.995)
+2020-06-30 12:13:38.184 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41738 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:13:38.186 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:13:40.324 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.339 seconds (JVM running for 3.003)
+2020-06-30 12:14:02.324 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41746 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:14:02.324 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:14:04.394 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.275 seconds (JVM running for 2.977)
+2020-06-30 12:18:51.755 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Starting UserProductMapDaoTest on dalluos-mbp with PID 41809 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:18:51.756 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:18:53.833 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Started UserProductMapDaoTest in 2.272 seconds (JVM running for 2.943)
+2020-06-30 12:22:18.889 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Starting UserProductMapDaoTest on dalluos-mbp with PID 41829 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:22:18.890 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:22:20.935 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Started UserProductMapDaoTest in 2.234 seconds (JVM running for 2.921)
+2020-06-30 12:26:18.455 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Starting UserProductMapDaoTest on dalluos-mbp with PID 41844 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:26:18.456 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:26:20.510 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Started UserProductMapDaoTest in 2.234 seconds (JVM running for 2.909)
+2020-06-30 12:26:38.236 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Starting UserProductMapDaoTest on dalluos-mbp with PID 41852 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:26:38.237 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:26:40.285 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Started UserProductMapDaoTest in 2.233 seconds (JVM running for 2.932)
+2020-06-30 12:26:53.239 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Starting UserProductMapDaoTest on dalluos-mbp with PID 41862 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:26:53.240 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:26:55.511 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Started UserProductMapDaoTest in 2.506 seconds (JVM running for 3.3)
+2020-06-30 12:28:09.344 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Starting UserProductMapDaoTest on dalluos-mbp with PID 41870 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:28:09.345 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:28:11.360 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Started UserProductMapDaoTest in 2.235 seconds (JVM running for 2.931)
+2020-06-30 12:28:34.196 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Starting UserProductMapDaoTest on dalluos-mbp with PID 41878 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:28:34.197 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:28:36.150 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Started UserProductMapDaoTest in 2.165 seconds (JVM running for 2.867)
+2020-06-30 12:29:46.515 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41892 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:29:46.517 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:29:48.597 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.262 seconds (JVM running for 2.927)
+2020-06-30 12:30:09.507 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41901 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:30:09.509 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:30:11.569 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.261 seconds (JVM running for 2.925)
+2020-06-30 12:30:22.844 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 41909 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 12:30:22.845 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 12:30:24.952 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 2.274 seconds (JVM running for 2.929)
+2020-06-30 14:05:29.905 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Starting ProductSellDailyDaoTest on dalluos-mbp with PID 42145 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 14:05:29.906 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 14:05:32.082 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Started ProductSellDailyDaoTest in 2.344 seconds (JVM running for 3.015)
+2020-06-30 14:06:55.761 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Starting ProductSellDailyDaoTest on dalluos-mbp with PID 42160 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 14:06:55.762 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 14:06:57.809 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Started ProductSellDailyDaoTest in 2.262 seconds (JVM running for 2.953)
+2020-06-30 14:08:00.091 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Starting ProductSellDailyDaoTest on dalluos-mbp with PID 42169 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 14:08:00.092 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 14:08:02.142 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Started ProductSellDailyDaoTest in 2.256 seconds (JVM running for 2.94)
+2020-06-30 14:23:52.575 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Starting ProductSellDailyDaoTest on dalluos-mbp with PID 42196 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 14:23:52.576 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 14:23:54.593 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Started ProductSellDailyDaoTest in 2.257 seconds (JVM running for 2.927)
+2020-06-30 14:35:47.305 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Starting ProductSellDailyDaoTest on dalluos-mbp with PID 42245 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 14:35:47.306 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 14:35:49.451 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Started ProductSellDailyDaoTest in 2.321 seconds (JVM running for 3.011)
+2020-06-30 14:38:16.976 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Starting ProductSellDailyDaoTest on dalluos-mbp with PID 42258 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 14:38:16.977 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 14:38:18.993 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Started ProductSellDailyDaoTest in 2.229 seconds (JVM running for 2.941)
+2020-06-30 14:40:37.885 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Starting ProductSellDailyDaoTest on dalluos-mbp with PID 42264 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 14:40:37.886 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 14:40:39.896 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Started ProductSellDailyDaoTest in 2.248 seconds (JVM running for 2.958)
+2020-06-30 14:50:22.324 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Starting ProductSellDailyDaoTest on dalluos-mbp with PID 42296 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 14:50:22.326 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 14:50:24.379 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Started ProductSellDailyDaoTest in 2.31 seconds (JVM running for 3.048)
+2020-06-30 14:50:46.771 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Starting ProductSellDailyDaoTest on dalluos-mbp with PID 42300 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 14:50:46.774 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 14:50:48.893 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Started ProductSellDailyDaoTest in 2.323 seconds (JVM running for 3.011)
+2020-06-30 14:57:31.371 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Starting ProductSellDailyDaoTest on dalluos-mbp with PID 42325 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 14:57:31.372 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 14:57:33.486 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Started ProductSellDailyDaoTest in 2.301 seconds (JVM running for 2.972)
+2020-06-30 15:00:08.756 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Starting ProductSellDailyDaoTest on dalluos-mbp with PID 42335 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 15:00:08.756 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 15:00:10.792 [main] INFO  com.bytetube.dao.ProductSellDailyDaoTest -     Started ProductSellDailyDaoTest in 2.23 seconds (JVM running for 2.909)
+2020-06-30 15:08:48.846 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     Starting UserShopMapDaoTest on dalluos-mbp with PID 42393 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 15:08:48.847 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 15:08:50.980 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     Started UserShopMapDaoTest in 2.324 seconds (JVM running for 3.003)
+2020-06-30 15:10:02.734 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     Starting UserShopMapDaoTest on dalluos-mbp with PID 42402 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 15:10:02.746 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 15:10:04.852 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     Started UserShopMapDaoTest in 2.31 seconds (JVM running for 3.002)
+2020-06-30 15:10:14.560 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     Starting UserShopMapDaoTest on dalluos-mbp with PID 42408 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 15:10:14.561 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 15:10:16.774 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     Started UserShopMapDaoTest in 2.392 seconds (JVM running for 3.071)
+2020-06-30 15:10:39.868 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     Starting UserShopMapDaoTest on dalluos-mbp with PID 42414 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 15:10:39.869 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 15:10:41.980 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     Started UserShopMapDaoTest in 2.304 seconds (JVM running for 2.974)
+2020-06-30 15:15:09.712 [main] INFO  com.bytetube.dao.ShopAuthMapDaoTest -     Starting ShopAuthMapDaoTest on dalluos-mbp with PID 42466 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 15:15:09.713 [main] INFO  com.bytetube.dao.ShopAuthMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 15:15:11.809 [main] INFO  com.bytetube.dao.ShopAuthMapDaoTest -     Started ShopAuthMapDaoTest in 2.279 seconds (JVM running for 2.974)
+2020-06-30 15:21:51.184 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 42484 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 15:21:51.186 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
+2020-06-30 15:21:52.719 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 1.718 seconds (JVM running for 2.13)
+2020-06-30 16:06:48.456 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 42671 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 16:06:48.459 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
+2020-06-30 16:06:50.114 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 1.87 seconds (JVM running for 2.304)
+2020-06-30 17:08:16.540 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 42905 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 17:08:16.542 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
+2020-06-30 17:08:18.249 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 1.917 seconds (JVM running for 2.353)
+2020-06-30 17:09:58.145 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 42914 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 17:09:58.147 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
+2020-06-30 17:09:59.887 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 1.962 seconds (JVM running for 2.935)
+2020-06-30 17:16:12.217 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 42927 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 17:16:12.219 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
+2020-06-30 17:16:13.746 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 1.726 seconds (JVM running for 2.175)
+2020-06-30 17:45:18.665 [main] INFO  com.bytetube.dao.AreaDaoTest -     Starting AreaDaoTest on dalluos-mbp with PID 43007 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 17:45:18.666 [main] INFO  com.bytetube.dao.AreaDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 17:45:20.918 [main] INFO  com.bytetube.dao.AreaDaoTest -     Started AreaDaoTest in 2.402 seconds (JVM running for 3.0)
+2020-06-30 17:46:51.201 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     Starting UserShopMapDaoTest on dalluos-mbp with PID 43035 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 17:46:51.202 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 17:46:53.257 [main] INFO  com.bytetube.dao.UserShopMapDaoTest -     Started UserShopMapDaoTest in 2.25 seconds (JVM running for 2.918)
+2020-06-30 17:47:14.632 [main] INFO  com.bytetube.dao.AreaDaoTest -     Starting AreaDaoTest on dalluos-mbp with PID 43042 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 17:47:14.633 [main] INFO  com.bytetube.dao.AreaDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 17:47:16.747 [main] INFO  com.bytetube.dao.AreaDaoTest -     Started AreaDaoTest in 2.244 seconds (JVM running for 2.855)
+2020-06-30 17:47:56.871 [main] INFO  com.bytetube.dao.AreaDaoTest -     Starting AreaDaoTest on dalluos-mbp with PID 43061 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 17:47:56.872 [main] INFO  com.bytetube.dao.AreaDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 17:47:59.117 [main] INFO  com.bytetube.dao.AreaDaoTest -     Started AreaDaoTest in 2.377 seconds (JVM running for 2.96)
+2020-06-30 17:51:08.000 [main] INFO  com.bytetube.dao.AreaDaoTest -     Starting AreaDaoTest on dalluos-mbp with PID 43090 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 17:51:08.001 [main] INFO  com.bytetube.dao.AreaDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 17:51:09.998 [main] INFO  com.bytetube.dao.AreaDaoTest -     Started AreaDaoTest in 2.129 seconds (JVM running for 2.731)
+2020-06-30 17:57:47.876 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 43157 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 17:57:47.878 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
+2020-06-30 17:57:49.481 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 1.796 seconds (JVM running for 2.215)
+2020-06-30 19:08:03.551 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 43287 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:08:03.553 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
+2020-06-30 19:08:05.746 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 2.471 seconds (JVM running for 3.106)
+2020-06-30 19:27:20.199 [main] INFO  com.bytetube.dao.AwardDaoTest -     Starting AwardDaoTest on dalluos-mbp with PID 43348 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:27:20.200 [main] INFO  com.bytetube.dao.AwardDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 19:27:24.629 [main] INFO  com.bytetube.dao.AwardDaoTest -     Started AwardDaoTest in 4.851 seconds (JVM running for 6.593)
+2020-06-30 19:28:02.111 [main] INFO  com.bytetube.dao.AwardDaoTest -     Starting AwardDaoTest on dalluos-mbp with PID 43357 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:28:02.114 [main] INFO  com.bytetube.dao.AwardDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 19:28:06.215 [main] INFO  com.bytetube.dao.AwardDaoTest -     Started AwardDaoTest in 4.526 seconds (JVM running for 5.819)
+2020-06-30 19:28:29.495 [main] INFO  com.bytetube.dao.AwardDaoTest -     Starting AwardDaoTest on dalluos-mbp with PID 43361 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:28:29.496 [main] INFO  com.bytetube.dao.AwardDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 19:28:33.535 [main] INFO  com.bytetube.dao.AwardDaoTest -     Started AwardDaoTest in 4.456 seconds (JVM running for 5.382)
+2020-06-30 19:28:50.363 [main] INFO  com.bytetube.dao.AwardDaoTest -     Starting AwardDaoTest on dalluos-mbp with PID 43366 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:28:50.376 [main] INFO  com.bytetube.dao.AwardDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 19:28:53.670 [main] INFO  com.bytetube.dao.AwardDaoTest -     Started AwardDaoTest in 3.603 seconds (JVM running for 4.511)
+2020-06-30 19:29:15.490 [main] INFO  com.bytetube.dao.AwardDaoTest -     Starting AwardDaoTest on dalluos-mbp with PID 43371 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:29:15.491 [main] INFO  com.bytetube.dao.AwardDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 19:29:19.069 [main] INFO  com.bytetube.dao.AwardDaoTest -     Started AwardDaoTest in 3.937 seconds (JVM running for 4.864)
+2020-06-30 19:45:43.989 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 43393 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:45:43.992 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 19:45:47.287 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 3.626 seconds (JVM running for 4.524)
+2020-06-30 19:46:17.634 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 43398 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:46:17.637 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 19:46:21.183 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 3.928 seconds (JVM running for 4.817)
+2020-06-30 19:47:15.579 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 43405 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:47:15.582 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 19:47:20.622 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 5.402 seconds (JVM running for 6.601)
+2020-06-30 19:48:14.286 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 43412 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:48:14.289 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 19:48:18.928 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 5.167 seconds (JVM running for 6.577)
+2020-06-30 19:49:07.498 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 43416 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:49:07.499 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 19:49:11.097 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 3.993 seconds (JVM running for 5.229)
+2020-06-30 19:49:37.515 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Starting UserAwardMapDaoTest on dalluos-mbp with PID 43421 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:49:37.516 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 19:49:40.872 [main] INFO  com.bytetube.dao.UserAwardMapDaoTest -     Started UserAwardMapDaoTest in 3.741 seconds (JVM running for 4.638)
+2020-06-30 19:57:21.096 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Starting UserProductMapDaoTest on dalluos-mbp with PID 43436 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:57:21.098 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 19:57:25.506 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Started UserProductMapDaoTest in 4.811 seconds (JVM running for 5.89)
+2020-06-30 19:59:38.291 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Starting UserProductMapDaoTest on dalluos-mbp with PID 43440 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 19:59:38.292 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 19:59:42.320 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Started UserProductMapDaoTest in 4.34 seconds (JVM running for 5.383)
+2020-06-30 20:45:06.507 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Starting UserProductMapDaoTest on dalluos-mbp with PID 43497 (started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 20:45:06.509 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     No active profile set, falling back to default profiles: default
+2020-06-30 20:45:12.250 [main] INFO  com.bytetube.dao.UserProductMapDaoTest -     Started UserProductMapDaoTest in 6.418 seconds (JVM running for 8.392)
+2020-06-30 20:45:12.792 [main] INFO  com.bytetube.BtappApplication -     Starting BtappApplication on dalluos-mbp with PID 43502 (/Users/dalluo/Desktop/IdeaProjects/bytetubeapp/target/classes started by dal in /Users/dalluo/Desktop/IdeaProjects/bytetubeapp)
+2020-06-30 20:45:12.809 [main] INFO  com.bytetube.BtappApplication -     No active profile set, falling back to default profiles: default
+2020-06-30 20:45:15.922 [main] INFO  com.bytetube.BtappApplication -     Started BtappApplication in 3.604 seconds (JVM running for 4.732)

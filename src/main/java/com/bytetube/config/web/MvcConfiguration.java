@@ -144,6 +144,8 @@ public class MvcConfiguration implements WebMvcConfigurer, ApplicationContextAwa
 		InterceptorRegistration loginIR = registry.addInterceptor(new ShopLoginInterceptor());
 		// 配置拦截的路径
 		loginIR.addPathPatterns(interceptPath);
+		/** shopauthmanagement page **/
+		loginIR.excludePathPatterns("/shopadmin/addshopauthmap");
 		// 还可以注册其它的拦截器
 		InterceptorRegistration permissionIR = registry.addInterceptor(new ShopPermissionInterceptor());
 		// 配置拦截的路径
@@ -159,24 +161,10 @@ public class MvcConfiguration implements WebMvcConfigurer, ApplicationContextAwa
 		/** shopmanage page **/
 		permissionIR.excludePathPatterns("/shopadmin/shopmanagement");
 		permissionIR.excludePathPatterns("/shopadmin/getshopmanagementinfo");
-//		/** shopauthmanagement page **/
-//		permissionIR.excludePathPatterns("/shopadmin/addshopauthmap");
-//		/** scan **/
-//		permissionIR.excludePathPatterns("/shopadmin/adduserproductmap");
-//		permissionIR.excludePathPatterns("/shopadmin/exchangeaward");
-//		/** 超级管理员系统拦截部分 **/
-//		interceptPath = "/superadmin/**";
-//		// 注册拦截器
-//		InterceptorRegistration superadminloginIR = registry.addInterceptor(new SuperAdminLoginInterceptor());
-//		// 配置拦截的路径
-//		superadminloginIR.addPathPatterns(interceptPath);
-//		superadminloginIR.excludePathPatterns("/superadmin/login");
-//		superadminloginIR.excludePathPatterns("/superadmin/logincheck");
-//		superadminloginIR.excludePathPatterns("/superadmin/main");
-//		superadminloginIR.excludePathPatterns("/superadmin/top");
-//		superadminloginIR.excludePathPatterns("/superadmin/clearcache4area");
-//		superadminloginIR.excludePathPatterns("/superadmin/clearcache4headline");
-//		superadminloginIR.excludePathPatterns("/superadmin/clearcache4shopcategory");
+		/** shopauthmanagement page **/
+		permissionIR.excludePathPatterns("/shopadmin/addshopauthmap");
+
+
 	}
 
 }
