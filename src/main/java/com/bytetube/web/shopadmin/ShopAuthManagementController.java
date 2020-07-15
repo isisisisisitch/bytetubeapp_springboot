@@ -1,7 +1,9 @@
 package com.bytetube.web.shopadmin;
 
+import com.bytetube.dto.ResultBean;
 import com.bytetube.dto.WechatInfo;
 import com.bytetube.util.ShortNetAddressUtil;
+import com.bytetube.util.WxUtils;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.zxing.client.j2se.MatrixToImageWriter;
 import com.google.zxing.common.BitMatrix;
@@ -163,7 +165,7 @@ public class ShopAuthManagementController {
 	private static String urlSuffix;
 	// 微信回传给的响应添加授权信息的url
 	private static String authUrl;
-
+	//wechat.appsrcret=b9a76133d6565c39a4fc8073e20128e8
 	@Value("${wechat.prefix}")
 	public void setUrlPrefix(String urlPrefix) {
 		ShopAuthManagementController.urlPrefix = urlPrefix;
@@ -205,12 +207,16 @@ public class ShopAuthManagementController {
 				// 将content的信息先进行base64编码以避免特殊字符造成的干扰，之后拼接目标URL
 				String longUrl = urlPrefix + authUrl + urlMiddle + URLEncoder.encode(content, "UTF-8") + urlSuffix;
 				// 将目标URL转换成短的URL
-				String shortUrl = ShortNetAddressUtil.getShortURL(longUrl);
+				ResultBean<String> stringResultBean = WxUtils.wxLongUrl2Short("wx0796c4dd537e5428", "b9a76133d6565c39a4fc8073e20128e8", longUrl);
+				System.out.println(stringResultBean.getData());
+				String shortUrl = stringResultBean.getData();
 				// 调用二维码生成的工具类方法，传入短的URL，生成二维码
 				BitMatrix qRcodeImg = CodeUtil.generateQRCodeStream(shortUrl, response);
 				// 将二维码以图片流的形式输出到前端
 				MatrixToImageWriter.writeToStream(qRcodeImg, "png", response.getOutputStream());
 			} catch (IOException e) {
+				e.printStackTrace();
+			} catch (Exception e) {
 				e.printStackTrace();
 			}
 		}

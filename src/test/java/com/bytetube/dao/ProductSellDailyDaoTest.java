@@ -33,7 +33,20 @@ public class ProductSellDailyDaoTest {
 		int effectedNum = productSellDailyDao.insertProductSellDaily();
 		assertEquals(3, effectedNum);
 	}
-	
+
+	/**
+	 * 测试添加功能
+	 *
+	 * @throws Exception
+	 */
+	@Test
+	public void testBInsertDefaultProductSellDaily() throws Exception {
+		// 创建商品日销量统计
+		int effectedNum = productSellDailyDao.insertDefaultProductSellDaily();
+		assertEquals(20, effectedNum);
+	}
+
+
 
 
 	/**

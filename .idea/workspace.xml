@@ -2,59 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a56c77c2-e7b4-4615-8221-4dac36bf923c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/debug/debug.2020-06-23.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/error/error.2020-06-23.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/info/info.2020-06-23.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dao/AwardDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dao/ProductSellDailyDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dao/ShopAuthMapDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dao/UserAwardMapDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dao/UserProductMapDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dao/UserShopMapDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dto/ShopAuthMapExecution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dto/WechatInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/enums/ShopAuthMapStateEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/exceptions/ShopAuthMapOperationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/service/ShopAuthMapService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/service/impl/ShopAuthMapServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/util/ShortNetAddressUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/web/shopadmin/ShopAuthManagementController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/AwardDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ProductSellDailyDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ShopAuthMapDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserAwardMapDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserProductMapDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserShopMapDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/operationfail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/operationsuccess.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/shopauthedit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/shopauthmanagement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/shopauthedit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/shopauthmanagement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bytetube/dao/AwardDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bytetube/dao/ProductSellDailyDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bytetube/dao/ShopAuthMapDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bytetube/dao/UserAwardMapDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bytetube/dao/UserProductMapDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/bytetube/dao/UserShopMapDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/debug/debug.2020-06-30.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/debug/debug.2020-07-02.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/debug/debug.2020-07-13.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/info/info.2020-06-30.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/info/info.2020-07-02.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/info/info.2020-07-14.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/config/quartz/QuartzConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dto/AwardExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dto/EchartSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dto/EchartXAxis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dto/ResultBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dto/UserAwardMapExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dto/UserProductMapExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dto/UserShopMapExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/enums/AwardStateEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/enums/UserAwardMapStateEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/enums/UserProductMapStateEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/enums/UserShopMapStateEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/exceptions/AwardOperationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/exceptions/UserAwardMapOperationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/exceptions/UserProductMapOperationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/service/AwardService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/service/ProductSellDailyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/service/UserAwardMapService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/service/UserProductMapService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/service/UserShopMapService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/service/impl/AwardServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/service/impl/ProductSellDailyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/service/impl/UserAwardMapServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/service/impl/UserProductMapServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/service/impl/UserShopMapServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/util/HttpUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/util/WxUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/web/shopadmin/AwardManagementController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/web/shopadmin/UserAwardManagementController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/web/shopadmin/UserProductManagementController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/web/shopadmin/UserShopManagementController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/awarddelivercheck.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/awardmanagement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/awardoperation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/productbuycheck.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/usershopcheck.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/common/echarts.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/awarddelivercheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/awardmanagement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/awardoperation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/productbuycheck.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/shop/usershopcheck.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/error.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/catalina.base_IS_UNDEFINED/logs/webapps/info.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/config/web/MvcConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/config/web/MvcConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/entity/UserAwardMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/entity/UserAwardMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/util/CodeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/util/CodeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/dao/ProductSellDailyDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/dao/ProductSellDailyDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/entity/ProductSellDaily.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/entity/ProductSellDaily.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/service/impl/ShopServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/service/impl/ShopServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/util/ShortNetAddressUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/util/ShortNetAddressUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/web/frontend/ProductDetailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/web/frontend/ProductDetailController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/web/shopadmin/ShopAdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/web/shopadmin/ShopAdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bytetube/web/shopadmin/ShopAuthManagementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bytetube/web/shopadmin/ShopAuthManagementController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/shopmanagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/shopmanagement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/bytetubeapp.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/ProductSellDailyDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/ProductSellDailyDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/frontend/shopdetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/frontend/shopdetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/shop/awardmanage.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/shop/awardmanagement.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/productdetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/productdetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/shopdetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/shopdetail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bytetube/dao/ProductSellDailyDaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bytetube/dao/ProductSellDailyDaoTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bytetube/config/web/MvcConfiguration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bytetube/config/web/MvcConfiguration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bytetube/util/CodeUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bytetube/util/CodeUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bytetube/entity/ProductSellDaily.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bytetube/entity/ProductSellDaily.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bytetube/service/impl/ShopServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bytetube/service/impl/ShopServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bytetube/web/frontend/ProductDetailController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bytetube/web/frontend/ProductDetailController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/bytetube/web/shopadmin/ShopAdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bytetube/web/shopadmin/ShopAdminController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/bytetubeapp.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,26 +110,43 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/resources/css/shop" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources/css/shop" />
       <recent name="$PROJECT_DIR$/src/main/webapp/resources/js/shop" />
-      <recent name="$PROJECT_DIR$/src/main/resources/mapper" />
-      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/bytetube" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/bytetube/dto" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources/js/common" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.bytetube.dto" />
-      <recent name="com.bytetube.util" />
       <recent name="com.bytetube.web.shopadmin" />
+      <recent name="com.bytetube.exceptions" />
+      <recent name="com.bytetube.enums" />
+      <recent name="com.bytetube.dto" />
       <recent name="com.bytetube.service.impl" />
-      <recent name="com.bytetube.service" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 53 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+        <path>
+          <item name="Found 53 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="bytetubeapp" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,9 +160,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShortNetAddressUtil">
-    <configuration name="ShortNetAddressUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bytetube.util.ShortNetAddressUtil" />
+  <component name="RunManager" selected="Spring Boot.BtappApplication">
+    <configuration name="WxUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bytetube.util.WxUtils" />
       <module name="bytetubeapp" />
       <extension name="coverage">
         <pattern>
@@ -139,7 +174,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserAwardMapDaoTest.testCUpdateUserAwardMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductSellDailyDaoTest.testAInsertProductSellDaily" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bytetubeapp" />
       <extension name="coverage">
         <pattern>
@@ -148,14 +183,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bytetube.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.bytetube.dao.UserAwardMapDaoTest" />
-      <option name="METHOD_NAME" value="testCUpdateUserAwardMap" />
+      <option name="MAIN_CLASS_NAME" value="com.bytetube.dao.ProductSellDailyDaoTest" />
+      <option name="METHOD_NAME" value="testAInsertProductSellDaily" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserProductMapDaoTest.testAInsertUserProductMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductSellDailyDaoTest.testBInsertDefaultProductSellDaily" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bytetubeapp" />
       <extension name="coverage">
         <pattern>
@@ -164,14 +199,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bytetube.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.bytetube.dao.UserProductMapDaoTest" />
-      <option name="METHOD_NAME" value="testAInsertUserProductMap" />
+      <option name="MAIN_CLASS_NAME" value="com.bytetube.dao.ProductSellDailyDaoTest" />
+      <option name="METHOD_NAME" value="testBInsertDefaultProductSellDaily" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserProductMapDaoTest.testBQueryUserProductMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductSellDailyDaoTest.testCQueryProductSellDaily" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bytetubeapp" />
       <extension name="coverage">
         <pattern>
@@ -180,8 +215,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.bytetube.dao" />
-      <option name="MAIN_CLASS_NAME" value="com.bytetube.dao.UserProductMapDaoTest" />
-      <option name="METHOD_NAME" value="testBQueryUserProductMap" />
+      <option name="MAIN_CLASS_NAME" value="com.bytetube.dao.ProductSellDailyDaoTest" />
+      <option name="METHOD_NAME" value="testCQueryProductSellDaily" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -215,19 +250,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.UserAwardMapDaoTest.testCUpdateUserAwardMap" />
-      <item itemvalue="JUnit.UserProductMapDaoTest.testAInsertUserProductMap" />
-      <item itemvalue="JUnit.UserProductMapDaoTest.testBQueryUserProductMap" />
+      <item itemvalue="Application.WxUtils" />
       <item itemvalue="Spring Boot.BtappApplication" />
-      <item itemvalue="Application.ShortNetAddressUtil" />
+      <item itemvalue="JUnit.ProductSellDailyDaoTest.testAInsertProductSellDaily" />
+      <item itemvalue="JUnit.ProductSellDailyDaoTest.testCQueryProductSellDaily" />
+      <item itemvalue="JUnit.ProductSellDailyDaoTest.testBInsertDefaultProductSellDaily" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShortNetAddressUtil" />
         <item itemvalue="Spring Boot.BtappApplication" />
-        <item itemvalue="JUnit.UserProductMapDaoTest.testBQueryUserProductMap" />
-        <item itemvalue="JUnit.UserProductMapDaoTest.testAInsertUserProductMap" />
-        <item itemvalue="JUnit.UserAwardMapDaoTest.testCUpdateUserAwardMap" />
+        <item itemvalue="Application.WxUtils" />
+        <item itemvalue="JUnit.ProductSellDailyDaoTest.testBInsertDefaultProductSellDaily" />
+        <item itemvalue="JUnit.ProductSellDailyDaoTest.testAInsertProductSellDaily" />
+        <item itemvalue="JUnit.ProductSellDailyDaoTest.testCQueryProductSellDaily" />
       </list>
     </recent_temporary>
   </component>
@@ -244,8 +279,20 @@
       <workItem from="1592930731057" duration="20349000" />
       <workItem from="1593107534775" duration="23000" />
       <workItem from="1593302415359" duration="29000" />
-      <workItem from="1593529575470" duration="29066000" />
+      <workItem from="1593529575470" duration="29676000" />
+      <workItem from="1593701321455" duration="8557000" />
+      <workItem from="1593723065590" duration="724000" />
+      <workItem from="1593730838527" duration="420000" />
+      <workItem from="1594742788469" duration="25985000" />
     </task>
+    <task id="LOCAL-00001" summary="add shop auth">
+      <created>1593569138486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593569138486</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,16 +313,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/bytetube/web/shopadmin/ShopAuthManagementController.java</url>
-          <line>196</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="add shop auth" />
+    <option name="LAST_COMMIT_MESSAGE" value="add shop auth" />
   </component>
 </project>

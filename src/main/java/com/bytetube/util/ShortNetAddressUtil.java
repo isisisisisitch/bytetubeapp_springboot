@@ -46,17 +46,17 @@ public class ShortNetAddressUtil {
 
     @SuppressWarnings("deprecation")
     public static String getShortURL(String longUrl) {
-//        longUrl = java.net.URLEncoder.encode(longUrl);
-//        String appkey = APPKEY;
-//        String[] sourceArray = appkey.split(",");
-//        for (String key : sourceArray) {
-//            String shortUrl = sinaShortUrl(key, longUrl);
-//            if (shortUrl != null) {
-//                return shortUrl;
-//            }
-//        }
-//        return null;
-        return "bytetube";
+        longUrl = java.net.URLEncoder.encode(longUrl);
+        String appkey = APPKEY;
+        String[] sourceArray = appkey.split(",");
+        for (String key : sourceArray) {
+            String shortUrl = sinaShortUrl(key, longUrl);
+            if (shortUrl != null) {
+                return shortUrl;
+            }
+        }
+        return null;
+        //return "bytetube";
     }
 
     public static String sinaShortUrl(String source, String longUrl) {

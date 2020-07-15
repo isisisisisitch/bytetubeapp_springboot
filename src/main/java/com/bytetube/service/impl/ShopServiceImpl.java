@@ -1,9 +1,11 @@
 package com.bytetube.service.impl;
 
 
+import com.bytetube.dao.ShopAuthMapDao;
 import com.bytetube.dao.ShopDao;
 import com.bytetube.dto.ShopExecution;
 import com.bytetube.entity.Shop;
+import com.bytetube.entity.ShopAuthMap;
 import com.bytetube.enums.ShopStateEnum;
 import com.bytetube.exceptions.ShopOperationException;
 import com.bytetube.service.ShopService;
@@ -22,6 +24,8 @@ import java.util.List;
 public class ShopServiceImpl implements ShopService {
 	@Autowired
 	private ShopDao shopDao;
+	@Autowired
+	private ShopAuthMapDao shopAuthMapDao;
 
 	@Override
 	public ShopExecution getShopList(Shop shopCondition, int pageIndex, int pageSize) {
@@ -71,8 +75,27 @@ public class ShopServiceImpl implements ShopService {
 						addShopImg(shop, shopImg);
 						effectedNum = shopDao.updateShop(shop);
 						if (effectedNum <= 0) {
-							throw new ShopOperationException("创建图片地址失败");
+							throw new ShopOperationException("更新图片地址失败");
 						}
+						// 执行增加shopAuthMap操作
+						ShopAuthMap shopAuthMap = new ShopAuthMap();
+						shopAuthMap.setEmployee(shop.getOwner());
+						shopAuthMap.setShop(shop);
+						shopAuthMap.setTitle("店家");
+						shopAuthMap.setTitleFlag(0);
+						shopAuthMap.setCreateTime(new Date());
+						shopAuthMap.setLastEditTime(new Date());
+						shopAuthMap.setEnableStatus(1);
+						try {
+							effectedNum = shopAuthMapDao.insertShopAuthMap(shopAuthMap);
+							if (effectedNum <= 0) {
+
+								throw new ShopOperationException("授权创建失败");
+							}
+						} catch (Exception e) {
+							throw new ShopOperationException("授权创建失败");
+						}
+
 					}
 				} catch (Exception e) {
 					throw new ShopOperationException("addShopImg error: "
